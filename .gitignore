@@ -1,0 +1,20 @@
+# Code
+.idea/
+.vscode/
+
+# Django compiled translations
+*.mo
+
+# OSX
+.DS_Store
+
+# Python
+__pycache__/
+*.egg-info/
+*.pyc
+.coverage*
+venv/
+
+# Project
+.env
+.envrc
